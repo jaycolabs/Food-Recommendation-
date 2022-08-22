@@ -24,10 +24,11 @@ Some of the cuisines you can use in the search bar
 
 ### Tools Used 
 - ipywidgets
-- pandas
-- sklearn
-- numpy
-- re
+- Pandas
+- Sklearn
+- Numpy
+- Re
+- Jupyter Notebook
 
 
 
